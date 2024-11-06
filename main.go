@@ -3,7 +3,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/xeneotech-kingcrud/hello"
+	"github.com/xeneotech-kingcrud/greetings"
  )
 
 func main(){
