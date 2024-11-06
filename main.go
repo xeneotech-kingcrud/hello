@@ -9,7 +9,7 @@ import (
 
 func main(){
 	message := greetings.Hello("Gladys")
-	F()
+	sample.F()
 	fmt.Println(message)
 }
  
